@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Kunj Gupta
 
-<!--
-**kunjgupta12/kunjgupta12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full Stack Developer** with expertise in **Flutter, AEM (Adobe Experience Manager), and IoT-driven mobile applications**.
 
-Here are some ideas to get you started:
+### 💼 Work Highlights
+- 🏢 **To The New (Drupal/AEM Engineer)** – Working on large-scale CMS solutions.
+- 📱 **Flutter Projects** – Smart Farming, Aviz Healthcare, Hotel Booking App, and more.
+- ⚙️ **Tech Stack** – Dart, Flutter, Firebase, AEM, REST APIs, BLE, HTL, Java, CI/CD, Git.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📱 Notable Apps
+- [Aviz Healthcare](https://play.google.com/store/apps/developer?id=Aviz+Healthcare)
+- [Smart Farming App](https://play.google.com/store/apps/details?id=com.lcaapp.irrigation)
+
+### 📌 Connect With Me
+- 💼 [LinkedIn](https://linkedin.com/in/kunj-gupta12)
+- 📧 kunjgupta54@gmail.com
