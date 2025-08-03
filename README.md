@@ -1,99 +1,125 @@
-# 👋 Hey there, I'm Kunj Gupta
+# 👋 Hey, I'm Kunj Gupta
 
-🎯 **Flutter Developer | AEM/Drupal Engineer | Mobile + CMS Integrator**
+🚀 Flutter Developer | AEM/Drupal Engineer | Mobile + CMS Problem Solver  
+🎯 Making tech usable, fast, and meaningful – one app at a time.
 
 ---
 
-💼 Currently working at **To The New** as a **Drupal/AEM Engineer**  
-📍 Based in Noida, India  
+💼 **Software Engineer at To The New** (Drupal/AEM)  
+📍 Noida, India  
 📬 kunjgupta54@gmail.com | 🌐 [LinkedIn](https://linkedin.com/in/kunj-gupta12)
 
 ---
 
-## 🚀 About Me
+## 🔍 About Me
 
-I'm a passionate software developer with **deep experience in Flutter** and modern CMS platforms like **AEM and Drupal**. My projects focus on **real-world problem solving**, blending mobile development with **APIs, IoT, and backend systems**. I bring both **technical depth** and **design sensibility** to deliver robust, scalable solutions across domains.
+I’m a curious and impact-driven developer who loves building things that **solve real problems** – from farming apps powered by IoT and BLE, to CMS-driven web platforms and mobile-first healthcare tools.
+
+With deep experience in **Flutter**, **Firebase**, and **AEM (Adobe Experience Manager)**, I bridge the gap between great design and clean, scalable code. I thrive on building apps that are as practical as they are performant.
 
 ---
 
-## 🔧 Technologies & Tools
+## 🛠️ Skills & Tools
 
-- **Languages**: Dart, Java, HTML, CSS, JavaScript, C
-- **Mobile App Dev**: Flutter, Firebase, REST APIs, BLE
-- **CMS & Web**: AEM (HTL/Sightly, Sling, OSGi), Drupal, HTML Templates
-- **Tools**: Android Studio, XCode, Postman, Git, Docker, Firebase Auth/Storage, WebView
+**Languages:** Dart, Java, C, HTML, JavaScript  
+**Mobile:** Flutter, Firebase, REST APIs, BLE, WebView  
+**CMS:** AEM (HTL/Sightly, Sling, OSGi), Drupal  
+**Dev Tools:** Android Studio, XCode, Git, Postman, JSON, Docker
 
 ---
 
 ## 📱 Featured Projects
 
-### 🌾 Smart Farming App ([Play Store](https://play.google.com/store/apps/details?id=com.lcaapp.irrigation) [App Store].(https://apps.apple.com/in/app/smart-autodrip/id6739205871))
-> Monitor real-time farm data using IoT, BLE & Weather APIs  
-**Tech**: Flutter, Firebase, BLE, REST API  
-🔹 Real-time weather info and BLE device sync  
-🔹 IoT sensor data and alert-based UI  
-🔹 Improved on-ground connectivity and remote monitoring  
-🛠️ Status: Published ✅
+### 🌾 Smart Irrigation App  
+**[Google Play](https://play.google.com/store/apps/details?id=com.lcaapp.irrigation)** | **[App Store](https://apps.apple.com/in/app/smart-autodrip/id6739205871)**  
+A Flutter-based farming assistant that helps farmers monitor real-time conditions via BLE and weather APIs.  
+
+✅ Live weather updates  
+✅ Bluetooth Low Energy (BLE) sync with on-field IoT hardware  
+✅ Alert system for water levels and automation triggers  
+
+> A powerful tool for smarter, sustainable farming.
 
 ---
 
-### 🏥 Aviz Healthcare App ([Play Store](https://play.google.com/store/apps/developer?id=Aviz+Healthcare))
-> Book home medical services with live tracking and smart notifications  
-**Tech**: Flutter, Firebase Auth + Firestore, Push Notifications  
-🔹 Seamless patient booking experience  
-🔹 Real-time service status updates  
-🔹 Personalized healthcare UX  
-🛠️ Status: Published ✅
+### 🏥 Aviz Healthcare  
+**[Google Play](https://play.google.com/store/apps/developer?id=Aviz+Healthcare)**  
+Your healthcare companion — enabling home care service bookings and real-time care tracking.  
+
+✅ Firebase-backed patient booking  
+✅ Push notifications and service updates  
+✅ Designed for accessibility and reliability  
+
+> Putting affordable healthcare in every hand.
 
 ---
 
-### 🚗 Autoclinch App (Private)
-> Car cleaning services with integrated payments and user feedback  
-**Tech**: Flutter, Razorpay/Stripe, Firebase, Analytics  
-🔹 Subscription and one-time payment flow  
-🔹 App performance optimization  
-🔹 UI improvements based on user feedback  
-🛠️ Status: Internal Deployment
+### 🧼 Autoclinch Car Cleaning  
+**[Google Play](https://play.google.com/store/apps/details?id=com.autoclinch.customer.autoclinch_customer&hl=en_IN)**  
+An on-demand car cleaning and detailing app, built to simplify vehicle care.  
+
+✅ One-time and subscription payments  
+✅ Optimized for performance and UI polish  
+✅ Customer-first flow with service tracking  
+
+> Because your car deserves spa days too 🚗✨
 
 ---
 
-### 🧠 Duly App (Private)
-> AI-powered contraceptive support via a community app  
-**Tech**: Flutter, Custom Backend, NLP Concepts  
-🔹 Discreet user onboarding  
-🔹 Chat support for personal queries  
-🔹 Judgement-free anonymous user flow  
-🛠️ Status: MVP Done
+### 🧠 Duly – Contraceptive Support App  
+A private Android app offering personalized, discreet support for reproductive health decisions.  
+
+✅ AI + medical science-powered UX  
+✅ Community support built in  
+✅ Non-judgmental, user-led design  
+
+> Empowering people through private, accurate health guidance.
 
 ---
 
-### 🎉 Rishi Valley Party Booking App (Published)
-> Book event venues with live customer chat and seamless checkout  
-**Tech**: Flutter, Firebase, Chat SDK  
-🔹 Hotel/corporate party booking system  
-🔹 Real-time customer support  
-🔹 Published on Play Store  
-🛠️ Status: Live ✅
+### 🎉 Rishi Valley Events App  
+**[Google Play](https://play.google.com/store/apps/details?id=com.rishi.rishi_app&hl=en_IN)**  
+Event booking made easy — from hotel parties to corporate get-togethers.  
+
+✅ Smooth booking experience  
+✅ Real-time customer support via in-app chat  
+✅ Firebase-based authentication and contact options  
+
+> Think “BookMyShow” for parties — now live and scalable!
 
 ---
 
-## 🧩 Current Work @ To The New
+## 🏢 What I Do at Work (To The New)
 
-- Building custom components for **Frasers Property Singapore**'s enterprise AEM platform
-- Working with **JCR, OSGi, Sling Models**, and authoring workflows
-- Supporting scalable multi-site deployments with reusable modules
+At **To The New**, I help large clients like **Frasers Property Singapore** build robust, modular CMS systems with **AEM**. My day-to-day involves:
+- Designing custom components, templates, and workflows  
+- Working with JCR, Sling Models, and HTL  
+- Ensuring scalable, multi-region content authoring
 
 ---
 
-## 📊 GitHub Stats (optional)
-![Kunj's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunjgupta12&show_icons=true&theme=radical)
+## ✨ What's Next
+
+Currently focused on:
+- Mastering **Headless CMS + Flutter** integrations  
+- Improving my CI/CD and DevOps skills  
+- Contributing more actively to open-source Flutter plugins
 
 ---
 
 ## 🌐 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/kunj-gupta12)
-- ✍️ [GitHub](https://github.com/kunjgupta12)
 - 📬 Email: kunjgupta54@gmail.com
+- 🧑‍💻 [GitHub](https://github.com/kunjgupta12)
 
 ---
+
+## 📊 GitHub Stats
+
+![Kunj's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunjgupta12&show_icons=true&theme=radical)
+
+---
+
+🛠️ Always building. Always learning.  
+Thanks for stopping by!
